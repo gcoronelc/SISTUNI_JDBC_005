@@ -7,7 +7,7 @@
 - Inicio: 09-JULIO-2016
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Contenido: http://www.sistemasuni.edu.pe/dcursos/javaescritorio.html
-- Página: http://gcoronelc.github.io/SISTUNI_JAVA_JDBC_004/
+- Página: http://gcoronelc.github.io/SISTUNI_JDBC_005/
 
 # DOCENTE
 
