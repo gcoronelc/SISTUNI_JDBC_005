@@ -1,0 +1,3 @@
+Conformar su grupo.
+Definir un tema o caso.
+Crear la base de datos.
